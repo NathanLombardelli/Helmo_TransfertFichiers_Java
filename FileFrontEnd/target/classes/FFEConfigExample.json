@@ -1,0 +1,10 @@
+{
+  "multicastAddress": "224.66.66.1",
+  "multicastPort": 15403,
+  "unicastPort": 8080,
+  "networkInterface": "eth7",
+  "tls": true,
+  "downloadFolderPath": "C:\\Temp",
+  "users": [
+  ]
+}

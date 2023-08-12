@@ -1,0 +1,9 @@
+{
+  "uniqueID": "Helmo.2",
+  "downLoadPath": "C:\\Temp",
+  "multicastAddress": "224.66.66.1",
+  "multicastPort": 15403,
+  "multicastDelayInSeconds": 30,
+  "unicastPort": 8082,
+  "networkInterface": "eth7"
+}
